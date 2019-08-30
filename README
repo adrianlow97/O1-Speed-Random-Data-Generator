@@ -1,0 +1,7 @@
+For ALIASMETHOD:
+This generates a user specified number of values as described in the keithschwartz article.
+
+UPDATE 2.27:
+Now gives you the option to input a csv file or manually input variables.
+Also now scales automatically so the weights do not have to add up to 1.
+Prints to a CSV file.
